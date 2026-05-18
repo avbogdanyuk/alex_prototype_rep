@@ -1,0 +1,43 @@
+What's your name?
+
+My name is Nora.
+
+
+How old are you?
+
+I'm twenty-eight years old.
+
+
+Where were you born?
+
+I was born in Norway.
+
+
+Where do you live?
+
+I live in Spain.
+
+
+What do you do?
+
+I'm an architect.
+
+
+What time do you usually wake up?
+
+I usually wake up at 6 a.m.
+
+
+What do you like to do in your free time?
+
+I like to write stories. I also like to go to the gym.
+
+
+Do you have any siblings?
+
+Yes. I have a brother and two sisters.
+
+
+Thank you for your time today.
+
+You're welcome. It was my pleasure.
